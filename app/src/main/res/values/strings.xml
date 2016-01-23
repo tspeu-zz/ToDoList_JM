@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDoList_JM_B</string>
+    <string name="pending"></string>
+    <string name="lstNoElements"></string>
+    <string name="newItem">nuevo</string>
+    <string name="save">guardar</string>
+    <string name="element">elemento</string>
+    <string name="place">lugar</string>
+    <string name="importance">prioridad</string>
+    <string name="descrip">descripcion</string>
+    <string name="a">a</string>
+
+
+</resources>
